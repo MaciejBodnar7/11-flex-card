@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #2c73d2;
+  color: #fff;
+  text-align: center;
+}
